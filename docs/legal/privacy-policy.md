@@ -5,13 +5,13 @@
 
 This Privacy Policy describes how Momentum ("Momentum", "we", "us", or "our") collects, uses, and shares information when you use the Momentum mobile application and any related services (collectively, the "Service"). By using the Service you agree to this Policy.
 
-If you have questions about this Policy, email **privacy@momentum.app**.
+If you have questions about this Policy, email **appsupportmomentum@gmail.com**.
 
 ---
 
 ## 1. Who we are
 
-Momentum is operated by **Mincimouse** (referred to here as "we" / "us"). For postal or data-protection correspondence, email **privacy@momentum.app** and we will provide a mailing address where required by law.
+Momentum is operated by **Mincimouse** (referred to here as "we" / "us"). For postal or data-protection correspondence, email **appsupportmomentum@gmail.com** and we will provide a mailing address where required by law.
 
 If you are an EU/UK resident, our contact point for data-protection questions is the same email address listed above.
 
@@ -112,7 +112,7 @@ If you are in California, you have rights under the CCPA/CPRA including the righ
 
 ## 8. Children
 
-Momentum is not directed at children under 13 (or the relevant age of digital consent in your jurisdiction — 16 in some EU countries). We do not knowingly collect data from children under that age. If you believe a child has provided us data, email **privacy@momentum.app** and we will delete it.
+Momentum is not directed at children under 13 (or the relevant age of digital consent in your jurisdiction — 16 in some EU countries). We do not knowingly collect data from children under that age. If you believe a child has provided us data, email **appsupportmomentum@gmail.com** and we will delete it.
 
 ---
 
@@ -132,4 +132,4 @@ We may update this Policy from time to time. When we make material changes we wi
 
 Privacy questions, data-subject requests, or anything else this Policy doesn't cover:
 
-**Email:** privacy@momentum.app
+**Email:** appsupportmomentum@gmail.com

@@ -182,4 +182,4 @@ Because Momentum is distributed through the Apple App Store, the following terms
 
 Legal questions, complaints, or anything else these Terms don't cover:
 
-**Email:** legal@momentum.app
+**Email:** appsupportmomentum@gmail.com

@@ -9,7 +9,7 @@ Public legal documents for the **Momentum** iOS app (personal growth: goals, hab
 
 These URLs are linked from the Momentum app (sign-up, **Settings → Legal**) and App Store Connect.
 
-**Contact:** privacy@momentum.app · legal@momentum.app
+**Contact:** appsupportmomentum@gmail.com
 
 ---
 
