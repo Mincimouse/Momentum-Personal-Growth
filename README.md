@@ -4,8 +4,8 @@ Public legal documents for the **Momentum** iOS app (personal growth: goals, hab
 
 | Document | Link |
 |----------|------|
-| Privacy Policy | [privacy-policy.md](./docs/legal/privacy-policy.md) · [GitHub Pages](https://mincimouse.github.io/Momentum-Personal-Growth/legal/privacy-policy) |
-| Terms of Service | [terms-of-service.md](./docs/legal/terms-of-service.md) · [GitHub Pages](https://mincimouse.github.io/Momentum-Personal-Growth/legal/terms-of-service) |
+| Privacy Policy | [privacy-policy.md](./docs/legal/privacy-policy.md) 
+| Terms of Service | [terms-of-service.md](./docs/legal/terms-of-service.md) 
 
 These URLs are linked from the Momentum app (sign-up, **Settings → Legal**) and App Store Connect.
 
